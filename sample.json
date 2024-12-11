@@ -1,0 +1,331 @@
+{
+    "companyName": "The buyer company",
+    "invoiceNumber": "01",
+    "fromAddress": {
+        "name": "Mr. Helloworld",
+        "street": "ABC street",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "pincode": "123456",
+        "gstin": "12345678909876"
+    },
+    "toAddress": {
+        "name": "Mr. World",
+        "street": "ABC street",
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "pincode": "654321",
+        "gstin": "12345678909876"
+    },
+    "items": [
+        {
+            "slNo": "1",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "2",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "3",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        },
+        {
+            "slNo": "4",
+            "description": "shdfghsdgfdak",
+            "quantity": "100",
+            "unit": "CFT",
+            "rate": "1",
+            "taxableValue": "0",
+            "cgst": "0",
+            "sgst": "0",
+            "total": "100"
+        }
+    ],
+    "totalInvoiceValue": "100000"
+}
